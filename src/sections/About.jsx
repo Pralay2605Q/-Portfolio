@@ -4,7 +4,7 @@ import p from "../assets/p3.png";
 
 export default function About() {
   const stats = [
-    { label: "Experience", value: "1+ Year" },
+    { label: "Experience", value: "3+ Year" },
     { label: "Speciality", value: "Full-Stack • ML • Software Dev" },
     { label: "Focus", value: "Performance • Web Apps • AI" },
   ];
